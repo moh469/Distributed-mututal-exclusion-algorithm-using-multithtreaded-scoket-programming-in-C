@@ -26,7 +26,7 @@
          int port[10];
          int m;
 
-/* message structure which is to be sent */
+/ Hi * message structure which is to be sent */
 struct  msg
 {
          int a;
