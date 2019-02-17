@@ -25,6 +25,7 @@
          char ipdq[9][17];
          int port[10];
          int m;
+          int mohit;
 
 / Hi * message structure which is to be sent */
 struct  msg
