@@ -23,7 +23,7 @@ char server_msg[20]="give me file";
 int lsize;
 int *s;
 s=&lsize;
-/* HI */
+
 FILE*fp;
  char *str;
 /* opening file for writing */
